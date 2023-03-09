@@ -1,5 +1,5 @@
 .DS_Store
-./src
+src
 node_modules
 index.html
 rollup.config.js
